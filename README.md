@@ -1,4 +1,4 @@
-## 📊 Visualizations
+## ✅ Visualizations
 
 ### ✅ Line Plot
 ![Line Plot](plot_line.png)
@@ -10,4 +10,4 @@
 ![Bar Chart](plot_bar.png)
 
 ### ✅ My Custom Image
-![My custom plot](my_plot.png)
+![My Custom Image](plot_custom.png)
